@@ -1,6 +1,6 @@
 # КВ-01 Калитенко Максим Петрович
-Розробка статичного інтерфейсу Web-додатка
+Розробка функціональності Web-додатка мовою Javascript
 
-Завдання: Розробити статичні Web-сторінки додатку обліку робочого часу та перевірити коректне їх відображення на екранах різного розміру.
+Завдання: Розробити функціональність для статичних сторінок Web-додатку першої лабораторної роботи із використанням шаблону MVC.
 
-Звіт: https://docs.google.com/document/d/13Z19lFbTaaqn3-Ii_H-OxpxxSV7Qy8_JaJXAB9jm04c/edit?usp=drive_link
+Звіт: https://docs.google.com/document/d/1ixx4ISLWs-8GzVj-HlHUjhMISDmCTnq9rh6fAAots2I/edit?usp=drive_link
